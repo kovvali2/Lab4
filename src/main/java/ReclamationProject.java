@@ -30,7 +30,7 @@ public class ReclamationProject {
             }
         String r = "";
         /*
-         * For loop with i
+         * For loop with ii
          */
         for (int i = 0; i < a.length(); i++) {
             for (int j = a.length() - i; j > 0; j--) {
